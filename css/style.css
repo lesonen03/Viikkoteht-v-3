@@ -1,0 +1,16 @@
+header {
+    background-color: red;
+    height: 100px;
+}
+
+nav{
+    background-color: yellow;
+}
+
+div{
+    background-color: green;
+}
+
+aside{
+    background-color: blue;
+}
